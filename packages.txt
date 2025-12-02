@@ -1,3 +1,1 @@
-# This file is for Streamlit Cloud to install system packages if needed
-# Currently not required, but kept for future use
 
